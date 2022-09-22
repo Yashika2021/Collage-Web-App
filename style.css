@@ -1,0 +1,12 @@
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+hr 
+{
+    border-top: 4px dotted #D8E9A8;
+}
+body {
+    background-image: linear-gradient(to right, #191A19 , #6D8B74);
+  }
