@@ -9,4 +9,21 @@ hr
 }
 body {
     background-image: linear-gradient(to right, #191A19 , #6D8B74);
-  }
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:black;
+}
+
+img:hover {
+    border-radius: 140%;
+}
+
+#camera {
+    width: 400px;
+    border: 5px;
+}
